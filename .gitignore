@@ -208,3 +208,7 @@ __marimo__/
 
 DGT/
 wandb/
+
+.vscode/
+.idea/
+data/
